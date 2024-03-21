@@ -19,7 +19,7 @@
 #tempototal=time.time ()
 #tempototal=tempofina-tempo 
 #"print (parabens..{numero}em {tentativa} tentativas num tempo de {tentativas} )""
-
+#TEST
 import time
 import random
 numero=  random.randint(1,100)
